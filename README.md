@@ -1,4 +1,6 @@
-# hash_map_project
+# Hash-Map
+Implementation of hash-map using dynamic array and singly-linked-list
+
 
 #INSTRUCTIONS
 ```bash
