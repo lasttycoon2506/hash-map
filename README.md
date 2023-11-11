@@ -10,3 +10,6 @@ git clone https://github.com/lasttycoon2506/hash-map.git
 cd hash-map
 run hash_map.py
 ```
+
+## How-To:
+Tests located halfway through page scroll-view of program. Uncomment desired test(s) and run program accordingly. 
